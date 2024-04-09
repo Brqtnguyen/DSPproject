@@ -11,3 +11,4 @@ TUE: Float between 0 and 2.0, Hour of technological device usage per day.
 CALC: Three answers (sometimes, no, frequently) Frequency of alcohol intake.
 MTRANS: Three answers (automobile, public transformation, walking) Means of transportation that you use regularly.
 NObeyesdad:﻿ Insufficient_Weight, ﻿﻿Normal weight, Overweight level I, ﻿﻿Overweight level II, ﻿﻿Obesity type I, ﻿﻿Obesity type Il, Obesity type Ill. This value is going to be predicted.
+
